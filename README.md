@@ -2,8 +2,7 @@
 
 Offical Implementation of our research:
 
-> **Elucidating the Design Space of Dataset Condensation ** <br>
-
+**Elucidating the Design Space of Dataset Condensation 
 
 ## Get Started
 
@@ -137,3 +136,7 @@ For `ImageNet-1k`, recommend you to directly download the collected statistics f
 
 
 
+=======
+# EDC-base
+EDC code for reproducing paper 
+>>>>>>> 2fff4874aaa2a1555c7d95e81f1ff7d91d397a82
